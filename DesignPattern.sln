@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{A589DEF4-3750-4DD6-BDC7-E9B49C30DAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{D4EE8C70-FD24-4DD6-84CA-0357223D2510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{15CB91E4-D005-412E-9532-D1A81083BA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A589DEF4-3750-4DD6-BDC7-E9B49C30DAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A589DEF4-3750-4DD6-BDC7-E9B49C30DAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A589DEF4-3750-4DD6-BDC7-E9B49C30DAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A589DEF4-3750-4DD6-BDC7-E9B49C30DAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4EE8C70-FD24-4DD6-84CA-0357223D2510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EE8C70-FD24-4DD6-84CA-0357223D2510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EE8C70-FD24-4DD6-84CA-0357223D2510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EE8C70-FD24-4DD6-84CA-0357223D2510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CB91E4-D005-412E-9532-D1A81083BA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CB91E4-D005-412E-9532-D1A81083BA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CB91E4-D005-412E-9532-D1A81083BA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CB91E4-D005-412E-9532-D1A81083BA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
